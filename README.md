@@ -44,6 +44,22 @@ cat purchases.txt | python 21mapper.py | sort
 cat purchases.txt | python 21mapper.py | sort  | python 22reducer.py
 
 ```
+### Bonus
+- Created mapper, sorter and reducer files and supply the output of initial reducer to bonus mapper and run ``` python mapper_bonus.py ```. 
+- Supply the output of above command as input to sorter file and run ``` python sorter_bonus.py ```
+- suppy the output here to reducer and run ``` python reducer_bonus.py ```. The resulting output is stored in ``` sorted_bonus_out.txt ```.
+- The first five records observed are 
+``` 
+
+1613.35 Cameras
+1018.6  Books
+992.51  Baby
+848.56  Men's Clothing
+837.69  Consumer Electronics
+818.4200000000001       Sporting Goods
+
+```
+
 
 
 ## References
