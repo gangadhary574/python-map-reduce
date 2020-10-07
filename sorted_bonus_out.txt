@@ -1,0 +1,17 @@
+Women's Clothing	1042.22
+Video Games	93.00999999999999
+Toys	319.71999999999997
+Sporting Goods	818.4200000000001
+Pet Supplies	493.51
+Music	625.59
+Men's Clothing	848.56
+Garden	140.75
+DVDs	648.51
+Crafts	110.61
+Consumer Electronics	837.69
+Computers	469.7
+Children's Clothing	611.74
+Cameras	1613.35
+CDs	575.3299999999999
+Books	1018.6
+Baby	992.51

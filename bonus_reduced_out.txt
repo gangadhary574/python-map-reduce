@@ -1,0 +1,16 @@
+1042.22	Women's Clothing
+93.00999999999999	Video Games
+319.71999999999997	Toys
+818.4200000000001	Sporting Goods
+493.51	Pet Supplies
+625.59	Music
+848.56	Men's Clothing
+140.75	Garden
+648.51	DVDs
+110.61	Crafts
+837.69	Consumer Electronics
+469.7	Computers
+611.74	Children's Clothing
+1613.35	Cameras
+575.3299999999999	CDs
+1018.6	Books
